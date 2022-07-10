@@ -1,0 +1,3 @@
+public class idIdent{
+private final int id;
+}
